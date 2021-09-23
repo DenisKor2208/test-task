@@ -17,8 +17,7 @@ $GLOBALS['config'] = [
         'host' => 'localhost',
         'username' => 'root',
         'password' => '',
-        //'database' => 'test_task',
-        'database' => 'edu_marlin',
+        'database' => 'test_task',
         'something' => [
             'no' => 'yes'
         ]
